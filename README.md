@@ -10,4 +10,14 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 ## Calculator
  - Custo de recursos na azure.
 
-   Obs.: Abre caminho para explorar ideia e chegar a um preço interessante. 
+   Obs.: Abre caminho para explorar ideia e chegar a um preço interessante.
+
+## cust management
+
+ - Gerencia o custo da assinatura.
+ - recomendações do advisor: traz melhorias, este caso, em relação a custo.
+
+## Marca
+
+- fazer seperação de recusros atraves de metadados.
+- uma forma de gerenciar valores por setor. 
